@@ -1,0 +1,23 @@
+body {
+  background-color: gray;
+}
+
+#content {
+  position: absolute;
+  display: table;
+  top: 30%;
+  width: 80%;
+  border: 3px solid #73AD21;
+}
+
+#slogan {
+  display: table-row;
+  padding: 7%;
+  border: 3px solid red;
+}
+
+#menu {
+  display: table-row;
+  padding: 3%;
+  border: 3px solid blue;
+}
